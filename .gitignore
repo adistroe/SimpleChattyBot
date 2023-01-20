@@ -1,0 +1,25 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Simple Chatty Bot (1)/*
+!/Simple Chatty Bot (1)/task/
+/Simple Chatty Bot (1)/task/*
+!/Simple Chatty Bot (1)/task/src/
+!/Simple Chatty Bot (1)/task/build.gradle
+!/Simple Chatty Bot (1)/task/build.gradle.kts
+
+# Project exclude paths
+/Topics (1)/For loop and ranges/Count the numbers/out/
+/Topics (1)/For loop and ranges/Count the numbers/out/production/classes/
